@@ -32,7 +32,7 @@ npm start
 This command will start the frontend development server. After a successful startup, you can access the frontend application by opening your web browser and navigating to http://localhost:3000 or the specified URL.
 
 ## Usage
-To start use the project add to your URL *delivery* path. It will look like http://localhost:3000/delivery. 
+To start use the project add to your URL */elifTech-test-frontend* path. It will look like http://localhost:3000/elifTech-test-frontend. 
 The frontend provides a user interface to interact with the delivery application. You can browse products, add them to your cart, place orders, and perform other relevant actions depending on the features implemented.
 
 Explore the user interface and interact with the available components and functionalities to experience the full functionality of the delivery
